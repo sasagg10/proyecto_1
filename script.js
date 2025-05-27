@@ -1,0 +1,1 @@
+let link = document.createElement('C:\Users\Isaac\Documents\talleres de programacio\lenguaje de programacion\clases\proyecto\subpagina.html');
